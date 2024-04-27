@@ -3,8 +3,6 @@
 <img align="right" alt="logo" width="400" src="https://github.com/jscvdev/jscv_files/blob/main/3D_logo.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jscvdev&label=Profile%20views&color=0e75b6&style=flat" alt="jscvdev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jscvdev" alt="jscvdev" /></a> </p>
-
 - 🔭 I’m currently working on [Document Management System (DMS)](https://github.com/jscvdev/API_SYS)
 
 - 🌱 I’m currently learning **PHP,MYSQL,ANGULAR,JS**
