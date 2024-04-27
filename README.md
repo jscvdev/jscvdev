@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Document Management System (DMS)](https://github.com/jscvdev/API_SYS)
 
-- 🌱 I’m currently learning **PHP,MYSQL,ANGULAR,JS**
+- 🌱 I’m currently learning **PHP, MYSQL, ANGULAR, JS**
 
 - 📫 How to reach me **jscv.dev@gmail.com**
 
