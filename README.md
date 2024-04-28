@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.micoope.com.gt%2F%3Fo%3Ddownload-blue-anime-tokyo-street-aesthetic-wallpaper-nn-jb1g2PFO&psig=AOvVaw2nRTKyK3Cv_jJiJ5dlH-yX&ust=1714430221630000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJDtu7b85YUDFQAAAAAdAAAAABBJ)](https://github.com/jscvdev)
 <h1 align="center">Hi 👋, I'm Julius</h1>
 <h3 align="center">Your frontend/system developer from Philippines</h3>
 <img align="right" alt="logo" width="400" src="https://github.com/jscvdev/jscv_files/blob/main/3D_logo.gif">
