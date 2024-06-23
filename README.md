@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Julius</h1>
-<h3 align="center">Your frontend/system developer from Philippines</h3>
+<h3 align="center">Your full-stack web/system developer from Philippines</h3>
 <img align="right" alt="logo" width="400" src="https://github.com/jscvdev/jscv_files/blob/main/3D_logo.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jscvdev&label=Profile%20views&color=0e75b6&style=flat" alt="jscvdev" /> </p>
 
